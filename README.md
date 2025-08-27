@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://guns.lol/neon4ick)
 ---------------
 
-[![Max1soft's GitHub stats](https://github-readme-stats.vercel.app/api?username=neon4icks44&show_icons=true&theme=jolly)](https://guns.lol/neon4ick)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=neon4icks44&show_icons=true&theme=tokyonight)](https://guns.lol/neon4ick)
 [![GitHub Streak](https://streak-stats.demolab.com?user=neon4icks44&theme=catppuccin-macchiato)](https://guns.lol/neon4ick)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://guns.lol/neon4ick)
