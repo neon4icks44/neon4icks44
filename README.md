@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <strong>💻 Java Developer • Minecraft Plugin Creator • Automation Enthusiast</strong>
+  <strong>💻 Java Developer • Minecraft Plugin Creator</strong>
 </p>
 
 <br>
@@ -18,8 +18,8 @@
 ```text
 Languages:        Java • Python • HTML/CSS/JS • Bash
 Tools:            IntelliJ IDEA • VS Code • Git • Maven • Putty • Termius
-Frameworks:       Spigot/Paper API • TelegramBots • Selenium
-Other:            Linux • Windows • Networking • Reverse Engineering
+Frameworks:       Spigot/Paper API • TelegramBots
+Other:            Windows • Networking 
 ```
 
 ### 📊 GitHub Stats
